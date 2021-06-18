@@ -1,0 +1,46 @@
+.container-fluid{
+    text-align: right;
+    background:steelblue;
+    text-transform: uppercase;
+    font-size: 20px;
+
+    
+}
+a.navbar-brand{
+    text-align: right;
+    color: green;
+    
+
+}
+.a.navbar-brand:hover{
+    /* cursor: pointer; */
+    color: green;
+    
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: steelblue;
+}
+.col{
+    opacity: 100%;
+    padding: 3%;
+
+
+}
+
+.carousel-inner{
+    opacity: 100%;
+  
+}
+.card-footer{
+    color: rgb(179, 45, 11);
+    background-color: steelblue;
+    font-style: italic;
+}
+.komera_leadership{
+    position: absolute;
+}
+
+
